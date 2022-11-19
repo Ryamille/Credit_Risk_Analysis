@@ -26,3 +26,4 @@ The purpose of this analysis was to use six machine learning models to predict c
 ![](Resources/easy.png)
 
 ## Summary
+After testing all six model Easy Ensemble Classifer had the greatest results with an accuracy of 93% and a 9% precision rate for high risk. Low risk unfortunately had low precision scores this showed that low risk credits shown as high risk.
